@@ -20,8 +20,4 @@
 
 ---
 
-### 📬 Mais de mim!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/douglas-meller-guirado/)
-- 📸 [Instagram](https://www.instagram.com/douglasmellerg/)
 - 🧠 Em constante aprendizado...
