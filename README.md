@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Douglas Meller
 
 🎓 Estudante de Engenharia de Software  
-🖥️ Explorando o mundo da programação e redes de computadores  
+🖥️ Explorando o mundo da programação 
 🏬 Trabalhando em um e-commerce 
 🇧🇷 Maringá - PR
 
