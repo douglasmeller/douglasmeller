@@ -2,7 +2,6 @@
 
 🎓 Estudante de Engenharia de Software  
 🖥️ Explorando o mundo da programação 
-🏬 Trabalhando em um e-commerce 
 🇧🇷 Maringá - PR
 
 ---
